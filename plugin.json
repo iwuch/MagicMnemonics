@@ -6,7 +6,7 @@
     "Author":"Dr.Wu",
     "Version":"1.0.0",
     "Language":"python",
-    "Website":"https://github.com/Wox-launcher/Wox",
+    "Website":"https://github.com/iwuch/MagicMnemonics",
     "IcoPath":"Images\\app.png",
     "ExecuteFileName":"main.py",
     "Disabled": false
